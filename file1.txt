@@ -1,3 +1,0 @@
-This is a my first p1 !!
-newley added line by bug1 branch for conflict.
-this is third line
